@@ -12,4 +12,4 @@
 # add an explicit ‘\n’ at the end of the string if you want to fully terminate the line in the file.
 
 with open('myfile.txt', 'w') as f:
-    f.write('Hello file world!')
+    f.write('Hello file world! :)')

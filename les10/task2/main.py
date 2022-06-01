@@ -11,7 +11,7 @@ def numbers():
     try:
         a = int(num[0])
         b = int(num[1])
-        num = a ** a // b 
+        num = a*a/b 
         print(num)
     except ValueError: 
         print('not a number')

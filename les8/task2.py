@@ -7,4 +7,4 @@ def make_country(name, capital):
     dictionary_1 = {}
     dictionary_1[name] = capital 
     print(dictionary_1)
-make_country('ukraine', 'kiev')
+make_country('ukraine', 'kiyv')

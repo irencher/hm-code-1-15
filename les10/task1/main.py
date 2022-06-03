@@ -4,7 +4,7 @@
 
 def oops():
     cats_count = {'Nat': 3, 'Sam': 2, 'Ivan': 73}
-    cats_count['Valera']
+    cats_count['Lera']
     # KeyError
 
     # name = []
